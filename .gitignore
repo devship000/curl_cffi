@@ -1,0 +1,24 @@
+.idea
+.pytest_cache
+Release
+*.pyc
+*.pyd
+*.so
+*.o
+**/__pycache__
+.venv
+
+build/
+dist/
+wheelhouse/
+curl.egg-info/
+curl_cffi.egg-info/
+curl_cffi/cacert.pem
+# curl_cffi/const.py
+curl-*/
+*.tar.xz
+*.tar.gz
+.patched
+.preprocessed
+.so_downloaded
+include/
